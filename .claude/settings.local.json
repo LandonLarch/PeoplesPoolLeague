@@ -9,7 +9,9 @@
       "Bash(python -c \"import pypdf; print\\(''''pypdf ok''''\\)\")",
       "Bash(pip show:*)",
       "Bash(pip install:*)",
-      "Bash(python -c \":*)"
+      "Bash(python -c \":*)",
+      "Bash(rm -rf dist)",
+      "Bash(npm start:*)"
     ]
   }
 }
