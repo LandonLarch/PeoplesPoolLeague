@@ -4,7 +4,10 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(npx prisma:*)",
-      "Bash(dir \"C:\\\\Dev\\\\ppl\\\\sample-rules\\\\\")"
+      "Bash(dir \"C:\\\\Dev\\\\ppl\\\\sample-rules\\\\\")",
+      "Bash(python -c \"import PyPDF2; print\\(''''PyPDF2 ok''''\\)\")",
+      "Bash(python -c \"import pypdf; print\\(''''pypdf ok''''\\)\")",
+      "Bash(pip show:*)"
     ]
   }
 }
