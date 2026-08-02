@@ -11,7 +11,10 @@
       "Bash(pip install:*)",
       "Bash(python -c \":*)",
       "Bash(rm -rf dist)",
-      "Bash(npm start:*)"
+      "Bash(npm start:*)",
+      "Bash(npm audit:*)",
+      "Bash(find src:*)",
+      "Bash(ls -la src/*/dto/*.ts)"
     ]
   }
 }
